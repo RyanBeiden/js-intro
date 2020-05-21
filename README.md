@@ -8,4 +8,4 @@ This project was the beginning of my learning of JavaScript. The code includes A
 - [Objects Code](https://github.com/RyanBeiden/js-intro/blob/master/objects.js) 👀
 
 ## Technologies Used
-[![JavaScript](https://img.shields.io/badge/-JavaScript-2c9fcc?style=flat-square)](#) [![Arrays](https://img.shields.io/badge/-Arrays-2c9fcc?style=flat-square)](#) [![Functions](https://img.shields.io/badge/-Functions-2c9fcc?style=flat-square)](#) [![Objects](https://img.shields.io/badge/-Objects-2c9fcc?style=flat-square)](#)
+[![Vanilla JavaScript](https://img.shields.io/badge/-Vanilla%20JavaScript-2c9fcc?style=flat-square)](#) [![HTML](https://img.shields.io/badge/-HTML-2c9fcc?style=flat-square)](#) [![CSS](https://img.shields.io/badge/-CSS-2c9fcc?style=flat-square)](#)
